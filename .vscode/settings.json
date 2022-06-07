@@ -1,0 +1,6 @@
+{
+    "code-runner.runInTerminal": true,
+    "workbench.editor.autoLockGroups": {
+        "default": true
+    }
+}
